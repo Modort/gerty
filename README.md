@@ -7,7 +7,7 @@ Check out the work in progress [specification](https://github.com/privacy-scalin
 
 ## Getting started
 
-To run the same tests as the CI, please use: `make test-all`.
+To run the same tests as the CI, please use: `make test-all`
 
 ## Running benchmarks
 
